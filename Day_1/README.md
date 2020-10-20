@@ -15,15 +15,7 @@ Create a Presentation (trainer to split trainees into groups)
 
 This is one of your first assessments
 
-## Imaginative - Presentation
-
-Programming can be considered a form of art, as you are given a problem to solve, with an empty canvas, that you then paint your solution for.​
-
-Creative solutions by fresh talent can sometimes outperform linear methodologies by engineers who follow the same pattern or workflow.
-
-Certain creative solutions especially with algorithmic problem solving can often indirectly solve multiple problems at once.
-
-### Homework
+## Homework
 
 - Watch your own presentation
 - Give yourself feedback
