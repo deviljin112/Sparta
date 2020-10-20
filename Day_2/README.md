@@ -65,3 +65,5 @@ Breakdown of all key areas in Day 2
 
 - Github Desktop skips the entire [Repos](https://github.com/deviljin112/Sparta/tree/master/Day_2#repos) section
 - Allows for easy push, pull, branch selection etc etc.
+- Visual Studio Code (VSC) => Allows for ease of coding in any language
+- Also allows for Git Management directly as you code
