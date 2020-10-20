@@ -36,11 +36,11 @@ Breakdown of all key areas in Day 2
 - `ssh -T git@github.com`
 - When you get RSA Key fingerprint question => `yes`
 - If you see "Hi USER! You've Successfully authenticated..." = Success
-- Save it => Success
+- Save it
 - Hide your `key.ssh` and `key.ssh.pub` somewhere safe
 - NEVER LEAVE IT IN YOUR REPO FOLDER
 - To reconnect to a repo locate your `key.ssh`
-- Repeat "add the key" and beyond to authenticate github :)
+- Repeat "add the key" and to authenticate github :)
 - Or alternatively make a ssh key without name and passcode for automatic authentication (Although, bad practice to have unprotected SSH Keys)
 
 ### Repos
@@ -75,6 +75,52 @@ Breakdown of all key areas in Day 2
 
 ## Business Skills
 
+### Time and Taks Management
+
 - Pareto Principle (80 / 20)
 - Eisenhower Principle (Important / Urgent)
 - Task Management Tools: Teams + Outlook Calendar / Trello
+- Two minutes rule
+- How to prioritise tasks
+- Best practices of prioritising and managing tasks
+
+### Communication
+
+- Everything we do is a form of communication
+- The Mind is an Operating System
+- Cognative Bias
+
+#### Colour Hats
+
+- White Hat = Facts Only / Need for information
+- Yellow Hat = Optimism / Benefits / Explore Positives
+- Black Hat = Judgement / Spot diffiulties and dangers
+- Red Hat = Intuition / Likes and Dislikes / Feelings
+- Green Hat = Creativity / Possibilites / Alternatives / New Ideas
+- Blue Hat = Thinking Process / Ensures Six Thinking Hats guideliness are observed
+
+#### Dealing with conflict
+
+- Take time to understand the situation
+- Know your audience
+- Ask others for their perspective
+- Compromise
+- _**LISTENING IS KEY**_
+
+#### Different Personalities
+
+- Understand each personality and how they work/think
+- Establish how to approach them
+- Adapt accordingly
+- Respect Differences
+- Each has their own work ethic and style
+- _**Be on the same team**_
+- Its your responsibility to make diffucult relationships work
+
+##### Personality Traits
+
+- Extroverts
+- Introverts
+- Supporter
+- Director
+- Analytical
