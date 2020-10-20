@@ -10,6 +10,8 @@ Breakdown of all key areas in Day 2
 
 ## Git
 
+### Setup + SSH Key
+
 - Download Git or GitBash (Mac and Linux has it already)
 - Run GitBash
 - `cd` to a place you please (Desktop works too)
