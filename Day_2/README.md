@@ -27,7 +27,7 @@ Breakdown of all key areas in Day 2
 - Check that `key.ssh` exists with `ls` in your `Sparta` folder
 - Ensure you have git-agent `eval $(ssh-agent -s)`
 - Add the key `ssh-add key.ssh`
-- Go to your [Github](www.github.com) and go to `Settings`
+- Go to your [Github](https://www.github.com) and go to `Settings`
 - "SSH and GPG keys" => "New SSH Key"
 - Back to terminal `cat key.ssh.pub`
 - Copy the entire thing you see in terminal
@@ -45,7 +45,7 @@ Breakdown of all key areas in Day 2
 
 ### Repos
 
-- Go to [Github](www.github.com) make a new repo
+- Go to [Github](https://www.github.com) make a new repo
 - With your folder from before open in Bash
 - `git init` => Initialize a repo
 - If you have files in that folder use `git add <file_name>`
