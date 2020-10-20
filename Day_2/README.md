@@ -41,6 +41,7 @@ Breakdown of all key areas in Day 2
 - NEVER LEAVE IT IN YOUR REPO FOLDER
 - To reconnect to a repo locate your `key.ssh`
 - Repeat "add the key" and beyond to authenticate github :)
+- Or alternatively make a ssh key without name and passcode for automatic authentication (Although, bad practice to have unprotected SSH Keys)
 
 ### Repos
 
