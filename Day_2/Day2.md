@@ -1,4 +1,8 @@
-# Trello
+# Day 2
+
+Breakdown of all key areas in Day 2
+
+## Trello
 
 - Join The board
 - Keep track of the board
@@ -19,22 +23,6 @@
 - Save as "key.ssh"
 - Make a passphase (Good practice)
 - `SHA256:YOUR_KEY_HERE your_email@email.com`
-
-```bash
-"The key's randomart image is:"
-+---[RSA 4096]----+
-|   o.+....       |
-|    + Bo* .      |
-|     +.* * .     |
-|       o* B      |
-|      . SX = .   |
-|       o* * +    |
-|      .+E+ o .   |
-|     ...+++ .    |
-|      o==+o+     |
-+----[SHA256]-----+
-```
-
 - Check that `key.ssh` exists with `ls` in your `Sparta` folder
 - Ensure you have git-agent `eval $(ssh-agent -s)`
 - Add the key `ssh-add key.ssh`

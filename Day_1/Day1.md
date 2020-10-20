@@ -1,4 +1,8 @@
-# Exercise
+# Day 1
+
+Breakdown of all key areas in Day 1
+
+## Exercise
 
 Create a Presentation (trainer to split trainees into groups)
 
