@@ -15,7 +15,7 @@ Create a Presentation (trainer to split trainees into groups)
 
 This is one of your first assessments
 
-## Imaginative
+## Imaginative - Presentation
 
 Programming can be considered a form of art, as you are given a problem to solve, with an empty canvas, that you then paint your solution for.​
 
