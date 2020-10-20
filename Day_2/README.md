@@ -37,8 +37,10 @@ Breakdown of all key areas in Day 2
 - Save it => Profit £££
 - Hide your `key.ssh` and `key.ssh.pub` somewhere safe
 - NEVER LEAVE IT IN YOUR REPO FOLDER
+- To reconnect to a repo locate your `key.ssh`
+- Repeat "add the key" and beyond to authenticate github :)
 
-## Repos
+### Repos
 
 - Go to [Github](www.github.com) make a new repo
 - With your folder from before open in Bash
@@ -61,9 +63,15 @@ Breakdown of all key areas in Day 2
 - Push to origin
 - Essentially everything again apart from `init` and `branch` if you not switching branches
 
-### Notes
+#### Notes
 
 - Github Desktop skips the entire [Repos](https://github.com/deviljin112/Sparta/tree/master/Day_2#repos) section
 - Allows for easy push, pull, branch selection etc etc.
 - Visual Studio Code (VSC) => Allows for ease of coding in any language
 - Also allows for Git Management directly as you code
+
+## Business Skills
+
+- Pareto Principle (80 / 20)
+- Eisenhower Principle (Important / Urgent)
+- Task Management Tools: Teams + Outlook Calendar / Trello
