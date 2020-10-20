@@ -40,7 +40,7 @@ Breakdown of all key areas in Day 2
 - Hide your `key.ssh` and `key.ssh.pub` somewhere safe
 - NEVER LEAVE IT IN YOUR REPO FOLDER
 - To reconnect to a repo locate your `key.ssh`
-- Repeat "add the key" and to authenticate github :)
+- Repeat "add the key" to authenticate github :)
 - Or alternatively make a ssh key without name and passcode for automatic authentication (Although, bad practice to have unprotected SSH Keys)
 
 ### Repos
@@ -92,12 +92,12 @@ Breakdown of all key areas in Day 2
 
 #### Colour Hats
 
-- White Hat = Facts Only / Need for information
-- Yellow Hat = Optimism / Benefits / Explore Positives
-- Black Hat = Judgement / Spot diffiulties and dangers
-- Red Hat = Intuition / Likes and Dislikes / Feelings
-- Green Hat = Creativity / Possibilites / Alternatives / New Ideas
-- Blue Hat = Thinking Process / Ensures Six Thinking Hats guideliness are observed
+- **White Hat** = Facts Only / Need for information
+- **Yellow Hat** = Optimism / Benefits / Explore Positives
+- **Black Hat** = Judgement / Spot diffiulties and dangers
+- **Red Hat** = Intuition / Likes and Dislikes / Feelings
+- **Green Hat** = Creativity / Possibilites / Alternatives / New Ideas
+- **Blue Hat** = Thinking Process / Ensures Six Thinking Hats guideliness are observed
 
 #### Dealing with conflict
 
