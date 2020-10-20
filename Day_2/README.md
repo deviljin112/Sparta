@@ -35,8 +35,8 @@ Breakdown of all key areas in Day 2
 - Back to terminal test your SHH to GitHub
 - `ssh -T git@github.com`
 - When you get RSA Key fingerprint question => `yes`
-- If you see "Hi USER! You've Successfully authenticated..." = GOOD
-- Save it => Profit £££
+- If you see "Hi USER! You've Successfully authenticated..." = Success
+- Save it => Success
 - Hide your `key.ssh` and `key.ssh.pub` somewhere safe
 - NEVER LEAVE IT IN YOUR REPO FOLDER
 - To reconnect to a repo locate your `key.ssh`
@@ -58,7 +58,7 @@ Breakdown of all key areas in Day 2
 - `git branch -M main` => Makes the "main" branch
 - `git remote add origin git@github.com:USER_NAME/Repo_name.git` => Link your folder to the github repo you've created (step 1)
 - `git push -u origin main` => Uploads all files
-- If you don't get any errors => PROFIT £££
+- If you don't get any errors => Success
 - If you make changes to any files:
 - You need to add those files again (as above)
 - Make a new commit (again)
