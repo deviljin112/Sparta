@@ -11,7 +11,6 @@ Breakdown of all key areas in Day 2
 ## Git
 
 - Download Git or GitBash (Mac and Linux has it already)
-- Note: GitHub Desktop is superior
 - Run GitBash
 - `cd` to a place you please (Desktop works too)
 - Example: `cd Desktop`
@@ -61,3 +60,8 @@ Breakdown of all key areas in Day 2
 - Make a new commit (again)
 - Push to origin
 - Essentially everything again apart from `init` and `branch` if you not switching branches
+
+### Notes
+
+- Github Desktop skips the entire [Repos](https://github.com/deviljin112/Sparta/tree/master/Day_2#repos) section
+- Allows for easy push, pull, branch selection etc etc.
