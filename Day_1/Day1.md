@@ -2,12 +2,12 @@
 
 Create a Presentation (trainer to split trainees into groups)
 
-•Time: 5 minutes (minimum 4 maximum 6)
-•Subject: Behavioural Competencies
-•Objective: Prove that you understand why we care so much about behaviours
-•Research & Plan
-•Rehearse (at least once)
-•Each person/group delivers
+- Time: 5 minutes (minimum 4 maximum 6)
+- Subject: Behavioural Competencies
+- Objective: Prove that you understand why we care so much about behaviours
+- Research & Plan
+- Rehearse (at least once)
+- Each person/group delivers
 
 This is one of your first assessments
 

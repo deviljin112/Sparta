@@ -48,3 +48,22 @@
 - When you get RSA Key fingerprint question => `yes`
 - If you see "Hi USER! You've Successfully authenticated..." = GOOD
 - Save it => Profit £££
+- Hide your `key.ssh` and `key.ssh.pub` somewhere safe
+- NEVER LEAVE IT IN YOUR REPO FOLDER
+
+## Repos
+
+- Go to [Github](www.github.com) make a new repo
+- With your folder from before open in Bash
+- `git init` => Initialize a repo
+- If you have files in that folder use `git add <file_name>`
+- If you want to add all files `git add *`
+- If you want to make a file `touch FILE_NAME.FORMAT`
+- Example: `touch README.md`
+- Edit the file either by manually opening it on your Explorer
+- or use `nano README.md` => Save with `CTRL + X` => `y`
+- `git commit -m "commit name"` => Commit all the files
+- `git branch -M main` => Makes the "main" branch
+- `git remote add origin git@github.com:USER_NAME/Repo_name.git` => Link your folder to the github repo you've created (step 1)
+- `git push -u origin main` => Uploads all files
+- If you don't get any errors => PROFIT £££
