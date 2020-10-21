@@ -175,3 +175,171 @@ without sufficient evidence
 
 - It's OK to make mistakes
 - It's OK to agree
+
+## Project Environment
+
+BAU = Business As Usual
+
+### Project vs BAU
+
+BAU Example: starting at 9am finish at 5pm. Things that the organisation does a specific way. I.e. Routine.
+
+- The general principles of the business that the rest follows
+
+Project Example: all on-going projects or events in the organisation eg. Python DevOps.
+
+- They all follow the same BAU principles
+
+Project:
+
+1. Initiation
+2. Planning
+3. Executing
+4. Monitoring & Controlling
+5. Closing
+
+The Triple Constraint of a Project:
+
+1. Time
+2. Cost
+3. Quality
+
+Projects require a good balance of all three depending on the needs of a customer.
+
+### Development Lifecycle
+
+![Waterfall](waterfall.png)
+
+- Waterfall
+  - System Requirements
+  - Software requirements
+  - Analysis
+  - Program Design
+  - Coding
+  - Testing
+  - Operations
+
+![VModel](vmodel.png)
+
+- V-Model
+  - Requirement Specification => Acceptance Testing
+  - Functional Specification => System Testing
+  - Technical Specification => Integration testing
+  - Program Specification => Unit Testing
+  - Coding
+
+![Agile](agile.png)
+
+- Agile
+  - Entry
+  - Plan (Design)
+  - Do (Code)
+  - Check (Test)
+  - Exit
+
+### Scrum Framework
+
+- Product Backlog
+- Sprint Plannign
+- Sprint Backlog
+- Scrum Team
+- Daily Scrum
+- Sprint Review
+- Sprint Retrospective
+- Increment
+
+## Teams
+
+### Attributes of Mature Teams
+
+- Co-Located
+- Cross Functional roles
+- Self-organising
+- Accountable and empowered
+
+### Projects are difficult
+
+- Create a **positive** atmosphere
+- Manage conflict **intelligently**
+- Have open and clear **communication**
+- **Respect** all of your peers
+- Become **trustworthy**
+
+## Business Cases
+
+A justification for the proposed project needed to obtain authorisation from the board.
+
+- Expected Benefits / Disbenefits (ROI)
+- Execution Timeline
+- Executive Summary
+- Investment Appraisal
+- Solutions / Options
+- Major Risks
+- Stakeholders / Communcation Plan
+
+### Examples
+
+- MOST
+- Boston Box
+- Porters Five Forces
+- PESTLE
+- SWOT
+- Workshops
+- Interviews
+- Questionnaires
+
+## Risks
+
+### Some sources of risk
+
+- Technology
+- Team
+- Scope
+- Business
+- Economy
+- Competition
+
+### Dealing with risk
+
+- Avoidance
+- Transfer
+- Reduce
+- Accept
+- Exploit
+- Share
+- Enhance
+- Ignore
+
+## Stakeholders
+
+- Partners
+- Suppliers
+- Regulators
+- Employees
+- Manages
+- Owners
+- Competitors
+- Customers
+
+### Power / Interest Grid
+
+Action |  Power / Influence | Interest
+-|-|-
+Ignore | No | No
+Keep Informed | No | Some
+Keep Informed | No | High
+Keep Onside | Some | No
+Keep Onside | Some | Some
+Keep Onside | Some | High
+Watch | High | No
+Keep Satisfied | High | Some
+Constant, Active Management | High | High
+
+### Attitudes
+
+- Champion
+- Supporter
+- Neutral
+- Critic
+- Opponent
+- Blocker
