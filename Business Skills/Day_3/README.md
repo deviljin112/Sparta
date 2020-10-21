@@ -15,7 +15,7 @@ Breakdown of all key areas in Day 3
 
 ### Thinking Triangle
 
-![Triangle](thinking_triangle.jpg)
+![Triangle](img/thinking_triangle.jpg)
 
 [Benjamin Blooms](https://tips.uark.edu/using-blooms-taxonomy/)
 
@@ -69,7 +69,7 @@ After which making the judgement.
 
 ### Enquiry Cycle
 
-![image](enquiry_cycle.png)
+![image](img/enquiry_cycle.png)
 
 _What kind of questions might we ask when thinking critically?_
 
@@ -116,7 +116,7 @@ Quality of evidence = Quality of Data + Quality of Interpretation
 
 ### Logical Fallacies
 
-![Fallacies](logical_fallacies.jpg)
+![Fallacies](img/logical_fallacies.jpg)
 
 - **_False Dichotomoy_**
   - Where the speaker forces the debate into two sides, though there are more options available
@@ -206,7 +206,7 @@ Projects require a good balance of all three depending on the needs of a custome
 
 ### Development Lifecycle
 
-![Waterfall](waterfall.png)
+![Waterfall](img/waterfall.png)
 
 - Waterfall
   - System Requirements
@@ -217,7 +217,7 @@ Projects require a good balance of all three depending on the needs of a custome
   - Testing
   - Operations
 
-![VModel](vmodel.png)
+![VModel](img/vmodel.png)
 
 - V-Model
   - Requirement Specification => Acceptance Testing
@@ -226,7 +226,7 @@ Projects require a good balance of all three depending on the needs of a custome
   - Program Specification => Unit Testing
   - Coding
 
-![Agile](agile.png)
+![Agile](img/agile.png)
 
 - Agile
   - Entry
