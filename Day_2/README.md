@@ -64,7 +64,10 @@ Breakdown of all key areas in Day 2
 - You need to add those files again (as above)
 - Make a new commit (again)
 - Push to origin
-- Essentially everything again apart from `init` and `branch` if you not switching branches
+- In order: `add`, `commit` then `push`
+- To ensure no merge conflicts occur:
+- Check the repo for changes `git fetch origin`
+- If any changes occured => `git pull`
 
 #### Notes
 
