@@ -15,6 +15,15 @@ Create a Presentation (trainer to split trainees into groups)
 
 This is one of your first assessments
 
+## KPIs
+
+- Analytic
+- Creative
+- Determined
+- Independent
+- Studious
+- Professional
+
 ## Homework
 
 - Watch your own presentation

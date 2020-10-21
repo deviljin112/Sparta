@@ -81,7 +81,7 @@ Breakdown of all key areas in Day 2
 ### Time and Taks Management
 
 - Pareto Principle (80 / 20)
-- Eisenhower Principle (Important / Urgent)
+- Eisenhower Model (Important / Urgent)
 - Task Management Tools: Teams + Outlook Calendar / Trello
 - Two minutes rule
 - How to prioritise tasks
@@ -91,9 +91,11 @@ Breakdown of all key areas in Day 2
 
 - Everything we do is a form of communication
 - The Mind is an Operating System
-- Cognative Bias
+- Cognative Bias (6 Main Biases)
 
 #### Colour Hats
+
+When identified within a team, its about balancing the hats for each member and being able to apply different hats as needed
 
 - **White Hat** = Facts Only / Need for information
 - **Yellow Hat** = Optimism / Benefits / Explore Positives
