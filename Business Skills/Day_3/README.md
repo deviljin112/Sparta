@@ -88,8 +88,6 @@ _What kind of questions might we ask when thinking critically?_
 - Do we have enough evidence?
 - Is there causalties?
 
-CHECK WITH RECORDING ^
-
 ## What is an argument
 
 - **_Claim_**
