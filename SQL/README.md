@@ -73,3 +73,37 @@ A structured set of data held in a computer.
 - COMMIT
 - ROLLBACK
 - SAVEPOINT
+
+## Syntax
+
+- `CREATE DATABASE <name>`
+  - Creates a database with a specified name
+  - Example: `CREATE DATABASE my_db`
+- `CREATE TABLE <name> {column type}`
+  - Creates a table with a specified column name and type
+  - Example: `CREATE TABLE sample { example_name VARCHAR(10) }`
+- `USE <name>`
+  - Uses specified database for some data manipulation
+  - Example: `USE my_db`
+- `SELECT <object> FROM <name>`
+  - Selects a specific object / column / row from a specific table
+  - Example: `SELECT * FROM sample`
+
+## Data Types
+
+- VARCHAR
+  - Adaptable to different lengths of charactes. Records MAX Size.
+- CHARACTER or CHAR
+  - Data must be at a fixed length. Fixed amount of space used.
+- INT
+  - Holds a whole number/integer value positive or negative
+- DATE or TIME or DATETIME
+  - Stores Date, Time or both Date and Time in one variable
+- DECIMAL or NUMERIC
+  - Fixed Precision and scale (digits to right of decimal point) numbers
+- BINARY
+  - Use to store binary data such as an image or file
+- FLOAT
+  - Scientific use (very large numbers)
+- BIT
+  - Equivalent to binary (0, 1 or NULL)
