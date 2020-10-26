@@ -23,17 +23,10 @@ CREATE TABLE users (
     email VARCHAR(255) NOT NULL
 );
 
-CREATE TABLE authors (
-    author_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-    first_name_author VARCHAR(255) NOT NULL,
-    last_name_author VARCHAR(255) NOT NULL,
-    bio VARCHAR(max) DEFAULT NULL
-)
-
 CREATE TABLE ebooks (
     ebook_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
-    author INT REFERENCES authors(author_id),
+    author INT REFERENCES users(user_id),
     book_location VARCHAR(6) NOT NULL,
     release_date DATE NOT NULL,
     genre VARCHAR(255) NOT NULL
@@ -78,24 +71,6 @@ INSERT INTO users (
     'Amber',
     '01234567890',
     'amyamber@email.com'
-);
-
-INSERT INTO authors (
-    first_name_author,
-    last_name_author,
-    bio
-) VALUES (
-    'J.K.',
-    'Rowling',
-    'Loves Harry Potter books'
-);
-
-INSERT INTO authors (
-    first_name_author,
-    last_name_author
-) VALUES (
-    'William',
-    'Shakespeare'
 );
 
 INSERT INTO ebooks (
@@ -193,7 +168,6 @@ We can just use the following for simple output.
 
 ```sql
 SELECT * FROM users;
-SELECT * FROM authors;
 SELECT * FROM ebooks;
 SELECT * FROM booking;
 ```

@@ -24,24 +24,6 @@ INSERT INTO users (
     'amyamber@email.com'
 );
 
-INSERT INTO authors (
-    first_name_author,
-    last_name_author,
-    bio
-) VALUES (
-    'J.K.',
-    'Rowling',
-    'Loves Harry Potter books'
-);
-
-INSERT INTO authors (
-    first_name_author, 
-    last_name_author
-) VALUES (
-    'William',
-    'Shakespeare'
-);
-
 INSERT INTO ebooks (
     title,
     author,
