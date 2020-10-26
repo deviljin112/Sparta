@@ -192,4 +192,4 @@ SELECT * FROM booking;
 
 This will return the following results:
 
-![results2](results2.png)
+![results2](result2.png)
