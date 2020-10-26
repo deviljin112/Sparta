@@ -178,3 +178,18 @@ INNER JOIN ebooks ON booking.what_ebook = ebooks.ebook_id;
 This way our output is formatted and it displays data based on other tables that match our `booking` table. Results:
 
 ![result](result.png)
+
+## Simple output
+
+We can just use the following for simple output.
+
+```sql
+SELECT * FROM users;
+SELECT * FROM authors;
+SELECT * FROM ebooks;
+SELECT * FROM booking;
+```
+
+This will return the following results:
+
+![results2](results2.png)
