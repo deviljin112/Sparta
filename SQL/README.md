@@ -76,6 +76,9 @@ A structured set of data held in a computer.
 
 ## Syntax
 
+- `SP_HELP <name>`
+  - Shows the structure of a table
+  - Example: `SP_HELP sample`
 - `CREATE DATABASE <name>`
   - Creates a database with a specified name
   - Example: `CREATE DATABASE my_db`
@@ -88,6 +91,18 @@ A structured set of data held in a computer.
 - `SELECT <object> FROM <name>`
   - Selects a specific object / column / row from a specific table
   - Example: `SELECT * FROM sample`
+- `ALTER TABLE <name> ALTER <column/row> <name> <type>`
+  - Modifies the table's column or row to a different data type
+  - Example: `ALTER TABLE sample ALTER COLUMN some_name VARCHAR(255)`
+- `INSERT INTO <name> (column_1, column_2) VALUES ('value_1', 'value_2')`
+  - Inserts some data into the columns
+  - Example: `INSERT INTO sample (name, surname) VALUES ('John', 'Smith')`
+- `UPDATE <name> SET <column> = <new value> WHERE <column> = <existing value>`
+  - Updates data in a specific table based on value in a column
+  - Example: `UPDATE sample SET name = 'Dev' WHERE name = 'Hubert'`
+- `DELETE FROM <name> WHERE <column> = <value>`
+  - Removes a row based on a value in a column
+  - Example: `DELETE FROM sample WHERE name = 'Dev'`
 
 ## Data Types
 
