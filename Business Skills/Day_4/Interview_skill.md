@@ -11,7 +11,7 @@ Articulate your answers using STAR with examples
 
 ### Elevator Pitch
 
-Homework:
+Excecise:
 
 - Create an elevator pitch for maximum 1 minute, present back to the group
 
