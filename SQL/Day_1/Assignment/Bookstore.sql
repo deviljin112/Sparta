@@ -1,5 +1,3 @@
-CREATE DATABASE bookstore;
-
 USE bookstore;
 
 CREATE TABLE users (
