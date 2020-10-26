@@ -1,10 +1,14 @@
 # Explanation
 
+## Create Database
+
 First create database.
 
 ```sql
 CREATE DATABASE bookstore;
 ```
+
+## Create Tables
 
 Then create tables for the data interpretation.
 
@@ -43,6 +47,8 @@ CREATE TABLE booking (
     price DECIMAL(5,2)
 );
 ```
+
+## Test Data
 
 - We need to test our database and tables, to check that the structure is correct.
 - For that we will input some sample data that will be used as a debug test.
@@ -157,6 +163,8 @@ INSERT INTO booking (
 );
 ```
 
+## Results
+
 To test that our data works we need to then make an output request (SELECT).
 We can simply run `SELECT * FROM` and use each table one by one to see the results but we can also just use `INNER JOIN`.
 
@@ -179,7 +187,7 @@ This way our output is formatted and it displays data based on other tables that
 
 ![result](result.png)
 
-## Simple output
+### Simple output
 
 We can just use the following for simple output.
 
