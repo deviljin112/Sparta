@@ -127,7 +127,7 @@ SELECT column_name AS 'Readable Name' FROM table_name WHERE other_column = argum
 
 - Which employee is a doctor?
   - `select EmployeeID, FirstName, LastName from Employees WHERE TitleOfCourtesy = 'Dr.';`
-  - 2. Andre Fuller
+  - [2] Andre Fuller
 
 - How many Products are Discontinued?
   - `select count(ProductID) from Products where Discontinued = 1;`
@@ -135,13 +135,13 @@ SELECT column_name AS 'Readable Name' FROM table_name WHERE other_column = argum
 
 - What are the names and product IDs of the products with a unit price below 5.00?
   - `select ProductName, ProductID from Products where UnitPrice < 5;`
-  - 24. Guarana Fantastica
-  - 33. Geitost
+  - [24] Guarana Fantastica
+  - [33] Geitost
 
 - Which categories have a category name with initials beginning with B or S?
   - `select CategoryID, CategoryName from Categories where CategoryName like 'B%' or CategoryName like 'S%';`
-  - 1. Beverages
-  - 8. Seafood
+  - [1] Beverages
+  - [8] Seafood
 
 - How many orders are there for EmployeeIDs 5 and 7 (The total for both)?
   - `select count(OrderID) from Orders where EmployeeID = 5 and EmployeeID = 7;`
