@@ -151,7 +151,7 @@ SELECT column_name AS 'Readable Name' FROM table_name WHERE other_column = argum
   - `select FirstName + ' ' + LastName as 'Employee Name' from Employees;`
 
 - Write a SELECT statement to list the six countries that have Region Codes in the Customers Table.
-  - `select distinct Country from Customers where Region != 'NULL';`
+  - `select distinct Country from Customers where Region is not null;`
   - Countries:
     1. Brazil
     2. Canada
