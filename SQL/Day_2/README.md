@@ -144,8 +144,8 @@ SELECT column_name AS 'Readable Name' FROM table_name WHERE other_column = argum
   - [8] Seafood
 
 - How many orders are there for EmployeeIDs 5 and 7 (The total for both)?
-  - `select count(OrderID) from Orders where EmployeeID = 5 and EmployeeID = 7;`
-  - 0
+  - `select count(OrderID) from Orders where EmployeeID = 5 or EmployeeID = 7;`
+  - 114
 
 - Write a SELECT using the Employees table and concatenate First Name and Last Name together. Using a column alias to rename the column to Employee Name
   - `select FirstName + ' ' + LastName as 'Employee Name' from Employees;`
