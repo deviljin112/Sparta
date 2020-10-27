@@ -52,7 +52,7 @@ A database is in Third Normal Form when the following conditions are satisfied:
   - It can allow you to help during the test phase
   - Helps you understand data flow, data warehouses and analytical products
 
-### Sequencing
+## Sequencing
 
 - SELECT
 - COUNT
@@ -63,7 +63,7 @@ A database is in Third Normal Form when the following conditions are satisfied:
 - HAVING
 - ORDER BY
 
-## SELECT Statement
+### SELECT Statement
 
 SELECT statement returns arguments stated based on FROM and WHERE clauses. Example: `SELECT Username` etc. We can also select multiple argument like: `SELECT username, password, email`
 
