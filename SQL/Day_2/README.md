@@ -118,3 +118,44 @@ SELECT column_name AS 'Readable Name' FROM table_name WHERE other_column = argum
 - `[charlist]` = Substitute for any single character inside of the brackets
 - `[^charlist]` = Substitute for any character that is not inside of the brackets
 - `-` = Range of characters
+
+## Exercises
+
+- How many employees have a home city of London?
+  - `select count(EmployeeID) from Employees where City = 'London';`
+  - 4
+
+- Which employee is a doctor?
+  - `select EmployeeID, FirstName, LastName from Employees WHERE TitleOfCourtesy = 'Dr.';`
+  - 2. Andre Fuller
+
+- How many Products are Discontinued?
+  - `select count(ProductID) from Products where Discontinued = 1;`
+  - 8
+
+- What are the names and product IDs of the products with a unit price below 5.00?
+  - `select ProductName, ProductID from Products where UnitPrice < 5;`
+  - 24. Guarana Fantastica
+  - 33. Geitost
+
+- Which categories have a category name with initials beginning with B or S?
+  - `select CategoryID, CategoryName from Categories where CategoryName like 'B%' or CategoryName like 'S%';`
+  - 1. Beverages
+  - 8. Seafood
+
+- How many orders are there for EmployeeIDs 5 and 7 (The total for both)?
+  - `select count(OrderID) from Orders where EmployeeID = 5 and EmployeeID = 7;`
+  - 0
+
+- Write a SELECT using the Employees table and concatenate First Name and Last Name together. Using a column alias to rename the column to Employee Name
+  - `select FirstName + ' ' + LastName as 'Employee Name' from Employees;`
+
+- Write a SELECT statement to list the six countries that have Region Codes in the Customers Table.
+  - `select distinct Country from Customers where Region != 'NULL';`
+  - Countries:
+    1. Brazil
+    2. Canada
+    3. Ireland
+    4. UK
+    5. USA
+    6. Venezuela
